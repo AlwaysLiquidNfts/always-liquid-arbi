@@ -1,0 +1,1 @@
+const s=[{chainId:42161,address:"0x0000000000000000000000000000000000000000",decimals:18,name:"ETH",symbol:"ETH",swap:!0},{chainId:42161,address:"0x82af49447d8a07e3bd95bd0d56f35241523fbab1",decimals:18,name:"Wrapped ETH",symbol:"WETH",swap:!0}],a={tokens:s};export{a as t};
