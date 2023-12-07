@@ -164,6 +164,12 @@
                 </a>
               </li>
 
+              <li class="pt-1 pb-1" @click="closeLeftSidebar">
+                <a class="dropdown-item" href="https://fantom.alwaysliquid.com" target="_blank">
+                  Fantom <small><i class="bi bi-box-arrow-up-right ms-1"></i></small>
+                </a>
+              </li>
+
             </ul>
           </li>
 
