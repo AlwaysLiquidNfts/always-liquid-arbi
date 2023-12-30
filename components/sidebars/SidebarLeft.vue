@@ -171,6 +171,12 @@
               </li>
 
               <li class="pt-1 pb-1" @click="closeLeftSidebar">
+                <a class="dropdown-item" href="https://polygon.alwaysliquid.com" target="_blank">
+                  Polygon <small><i class="bi bi-box-arrow-up-right ms-1"></i></small>
+                </a>
+              </li>
+
+              <li class="pt-1 pb-1" @click="closeLeftSidebar">
                 <a class="dropdown-item" href="https://scroll.alwaysliquid.com" target="_blank">
                   Scroll <small><i class="bi bi-box-arrow-up-right ms-1"></i></small>
                 </a>
